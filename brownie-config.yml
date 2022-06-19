@@ -1,0 +1,4 @@
+dotenv: .env
+wallets:
+  fromkey: ${PRIVATE_KEY}
+  WEB3_INFURA_PEOJECT_ID: ${WEB3_INFURA_PEOJECT_ID}
